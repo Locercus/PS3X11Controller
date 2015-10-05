@@ -3,6 +3,8 @@ Control X11 using a PS3 Controller
 
 Default mapping customised for Elementary OS.
 
+[Shitty demonstration video](https://www.youtube.com/watch?v=RDRq7zqP5Sk)
+
 Default mapping:
 * Left analog stick: Move mouse
 * Right analog stick: Scroll
